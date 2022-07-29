@@ -3,3 +3,6 @@ Facial Emotion Recognition (FER) is the technology that analyses facial expressi
 
 
 # Dataset
+
+dataset link-
+https://drive.google.com/drive/folders/1ylwsfWWAVGheOZ864VsSK2COeJoqQaTJ?fbclid=IwAR0EOPLZwJO50UUfxgNRQgq6psXZE6MaY1CFzVxlESWaoHhIgPxEidQSWyA
